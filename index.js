@@ -2,7 +2,7 @@
 
 
 
-function destructivelyAppendKetten(name) {
+function destructivelyAppendKitten(name) {
   kittens.push(name);
   return kittens;
 }
